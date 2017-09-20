@@ -56,12 +56,13 @@
 * [Antlr](http://www.antlr.org/)
 * [JavaCC](https://javacc.org/)
 
-# Documentation
+# Reference
 * [Explain Shell](https://explainshell.com/)
 * [Show the Docs](http://showthedocs.com/)
 * [Linux Syscall Reference](http://syscalls.kernelgrok.com/)
 * [Linux Man Pages](https://linux.die.net/man/)
-## Documentation for Programming Language
+
+# Programming Language
 * [Rust](https://www.rust-lang.org/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Go](https://golang.org/)
@@ -72,3 +73,4 @@
 * [C/C++](http://www.cplusplus.com/)
 * [Lua](https://www.lua.org/)
 * [Perl](https://www.perl.org/)
+* [Haskell](https://www.haskell.org/)
