@@ -124,9 +124,9 @@
 
 # References
 * [Explain Shell](https://explainshell.com/)
-* [Show the Docs](http://showthedocs.com/)
 * [Linux Syscall Reference](http://syscalls.kernelgrok.com/)
 * [Linux Man Pages](https://linux.die.net/man/)
+* [Show the Docs](http://showthedocs.com/)
 
 <sup>[top](#index)</sup>
 
