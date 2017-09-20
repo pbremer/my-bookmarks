@@ -75,3 +75,4 @@
 * [Lua](https://www.lua.org/)
 * [Perl](https://www.perl.org/)
 * [Haskell](https://www.haskell.org/)
+* [Elixr](https://elixir-lang.org/)
