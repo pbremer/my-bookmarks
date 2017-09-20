@@ -16,8 +16,8 @@
 
 # Algorithms/Data Structures
 * [Gnarly Trees](https://people.ksp.sk/~kuko/gnarley-trees/)
-* [List of Algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Data Structures - Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+* [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 * [SMHasher](https://github.com/aappleby/smhasher)
 
 <sup>[top](#index)</sup>
@@ -31,10 +31,10 @@
 <sup>[top](#index)</sup>
 
 # Design Patterns
-* [Software Design Pattern - Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-* [Microservice Architecture](http://microservices.io/)
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)
+* [Microservice Architecture](http://microservices.io/)
+* [Software Design Pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 <sup>[top](#index)</sup>
 
