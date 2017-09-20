@@ -5,7 +5,6 @@
 * [Frameworks](#frameworks)
   * [Testing](#testing)
 * [Machine Learning](#machine-learning)
-* [Open Source](#open-source)
 * [Operating Systems](#operating-systems)
 * [Programming Languages](#programming-languages)
 * [References](#references)
@@ -42,17 +41,16 @@
 
 # Frameworks
 ## Testing
+* [Cucumber](https://cucumber.io/)
+* [JUnit](http://junit.org/)
 * [Robot](http://robotframework.org/)
+* [Selenium](http://www.seleniumhq.org/)
+* [TestNG](http://testng.org/doc/)
 
 # Machine Learning
 * [Kaggle](https://www.kaggle.com/)
 * [Scikit-Learn](http://scikit-learn.org/stable/)
 * [TensorFlow](https://www.tensorflow.org/)
-
-<sup>[top](#index)</sup>
-
-# Open Source
-* [Up For Grabs](http://up-for-grabs.net/)
 
 <sup>[top](#index)</sup>
 
@@ -112,7 +110,10 @@
 <sup>[top](#index)</sup>
 
 # Version Control
+* [Git](https://git-scm.com/)
 * [Git Game](https://www.git-game.com/)
+* [Mercurial](https://www.mercurial-scm.org/)
+* [Subversion](https://subversion.apache.org/)
 
 <sup>[top](#index)</sup>
 
@@ -128,6 +129,7 @@
 <sup>[top](#index)</sup>
 
 # Uncategorized
+* [Up For Grabs](http://up-for-grabs.net/)
 * [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
 <sup>[top](#index)</sup>
