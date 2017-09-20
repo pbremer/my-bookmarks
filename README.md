@@ -3,6 +3,7 @@
 * [Compilers](#compilers)
 * [Design Patterns](#design-patterns)
 * [Frameworks](#frameworkslibraries)
+  * [Frontend](#frontend)
   * [General](#general)
   * [Reactive](#reactive)
   * [Testing](#testing)
@@ -48,6 +49,14 @@
 <sup>[top](#index)</sup>
 
 # Frameworks/Libraries
+## Frontend
+* [AngularJS](https://angularjs.org/)
+* [Polymer](https://www.polymer-project.org/)
+* [React](https://facebook.github.io/react/)
+* [Vue](https://vuejs.org/)
+
+<sup>[top](#index)</sup>
+
 ## General
 * [Apache Commons](https://commons.apache.org/)
 * [Boost](http://www.boost.org/)
@@ -80,6 +89,7 @@
 
 ## Web
 * [Jersey](https://jersey.github.io/)
+* [Play](https://www.playframework.com/)
 * [Vertx](http://vertx.io/)
 
 <sup>[top](#index)</sup>
