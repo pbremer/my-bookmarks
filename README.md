@@ -202,6 +202,7 @@
 <sup>[top](#index)</sup>
 
 # Uncategorized
+* [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 * [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
 <sup>[top](#index)</sup>
