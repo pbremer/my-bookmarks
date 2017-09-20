@@ -141,26 +141,26 @@
 <sup>[top](#index)</sup>
 
 # Search Indexing
+* [Changing Bits](http://blog.mikemccandless.com/)
 * [Lucene](https://lucene.apache.org/)
 * [Solr](http://lucene.apache.org/solr/)
-* [Changing Bits](http://blog.mikemccandless.com/)
 
 <sup>[top](#index)</sup>
 
 # Security/Malware/Hacking
-* [OWASP](https://www.owasp.org/)
-* [Reverse Engineering - Reddit](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/)
-* [Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/)
-* [Kali Linux](https://www.kali.org/)
-* [Over the Wire](http://overthewire.org)
 * [Damn Vulnerable  Web Application](http://www.dvwa.co.uk/)
+* [Kali Linux](https://www.kali.org/)
+* [Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/)
+* [Over the Wire](http://overthewire.org)
+* [OWASP](https://www.owasp.org/)
+* [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/)
 
 <sup>[top](#index)</sup>
 
 # Serialization
+* [CBOR](http://cbor.io/)
 * [MessagePack](http://msgpack.org/index.html)
 * [Protobuf](https://developers.google.com/protocol-buffers/)
-* [CBOR](http://cbor.io/)
 
 <sup>[top](#index)</sup>
 
@@ -212,6 +212,7 @@
 <sup>[top](#index)</sup>
 
 # Uncategorized
+* [Awesome List](https://github.com/sindresorhus/awesome)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 * [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
