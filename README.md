@@ -16,7 +16,7 @@
 * [Security/Malware/Hacking](#securitymalwarehacking)
 * [Serialization](#serialization)
 * [Tools](#tools)
-  * C/C++
+  * [C/C++](#cc)
   * [Java](#java)
   * [Javascript](#javascript)
 * [Version Control](#version-control)
