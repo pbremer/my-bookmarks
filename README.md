@@ -23,9 +23,9 @@
 <sup>[top](#index)</sup>
 
 # Compilers
-* [Lex & Yacc/Flex & Bison](http://dinosaur.compilertools.net/)
 * [Antlr](http://www.antlr.org/)
 * [JavaCC](https://javacc.org/)
+* [Lex & Yacc/Flex & Bison](http://dinosaur.compilertools.net/)
 * [LLVM](https://llvm.org/)
 
 <sup>[top](#index)</sup>
