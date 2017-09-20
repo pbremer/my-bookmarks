@@ -169,6 +169,7 @@
 * [Clang Extras](https://clang.llvm.org/extra/)
 * [CMake](https://cmake.org/)
 * [Make](https://www.gnu.org/software/make/manual/make.html)
+* [What modern C++ libraries should be in my toolbox?](https://stackoverflow.com/questions/777764/what-modern-c-libraries-should-be-in-my-toolbox)
 
 <sup>[top](#index)</sup>
 
