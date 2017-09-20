@@ -59,3 +59,16 @@
 # Documentation
 * [Explain Shell](https://explainshell.com/)
 * [Show the Docs](http://showthedocs.com/)
+* [Linux Syscall Reference](http://syscalls.kernelgrok.com/)
+* [Linux Man Pages](https://linux.die.net/man/)
+## Documentation for Programming Language
+* [Rust](https://www.rust-lang.org/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Go](https://golang.org/)
+* [Clojure](https://clojure.org/)
+* [Scala](https://www.scala-lang.org/)
+* [Kotlin](https://kotlinlang.org/)
+* [Python](https://www.python.org/)
+* [C/C++](http://www.cplusplus.com/)
+* [Lua](https://www.lua.org/)
+* [Perl](https://www.perl.org/)
