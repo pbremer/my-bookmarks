@@ -55,6 +55,7 @@
 * [Lex & Yacc/Flex & Bison](http://dinosaur.compilertools.net/)
 * [Antlr](http://www.antlr.org/)
 * [JavaCC](https://javacc.org/)
+* [LLVM](https://llvm.org/)
 
 # Reference
 * [Explain Shell](https://explainshell.com/)
