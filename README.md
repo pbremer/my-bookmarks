@@ -8,13 +8,13 @@
   * [Reactive](#reactive)
   * [Testing](#testing)
   * [Web](#web)
+* [Hacking/Malware/Security](#hackingmalwaresecurity)
 * [Machine Learning](#machine-learning)
 * [Open Source](#open-source)
 * [Operating Systems](#operating-systems)
 * [Programming Languages](#programming-languages)
 * [References](#references)
 * [Search Indexing](#search-indexing)
-* [Security/Malware/Hacking](#securitymalwarehacking)
 * [Serialization](#serialization)
 * [Tools](#tools)
   * [C/C++](#cc)
@@ -94,6 +94,16 @@
 
 <sup>[top](#index)</sup>
 
+# Hacking/Malware/Security
+* [Damn Vulnerable  Web Application](http://www.dvwa.co.uk/)
+* [Kali Linux](https://www.kali.org/)
+* [Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/)
+* [Over the Wire](http://overthewire.org)
+* [OWASP](https://www.owasp.org/)
+* [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/)
+
+<sup>[top](#index)</sup>
+
 # Machine Learning
 * [Kaggle](https://www.kaggle.com/)
 * [Scikit-Learn](http://scikit-learn.org/stable/)
@@ -144,16 +154,6 @@
 * [Changing Bits](http://blog.mikemccandless.com/)
 * [Lucene](https://lucene.apache.org/)
 * [Solr](http://lucene.apache.org/solr/)
-
-<sup>[top](#index)</sup>
-
-# Security/Malware/Hacking
-* [Damn Vulnerable  Web Application](http://www.dvwa.co.uk/)
-* [Kali Linux](https://www.kali.org/)
-* [Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/)
-* [Over the Wire](http://overthewire.org)
-* [OWASP](https://www.owasp.org/)
-* [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/)
 
 <sup>[top](#index)</sup>
 
