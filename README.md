@@ -95,9 +95,9 @@
 <sup>[top](#index)</sup>
 
 # Operating Systems
-* [OSDev.org](http://wiki.osdev.org/Expanded_Main_Page)
-* [xv6](https://pdos.csail.mit.edu/6.828/2017/xv6.html)
+* [OSDev](http://wiki.osdev.org/Expanded_Main_Page)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
+* [xv6](https://pdos.csail.mit.edu/6.828/2017/xv6.html)
 
 <sup>[top](#index)</sup>
 
