@@ -88,6 +88,8 @@
 <sup>[top](#index)</sup>
 
 ## Web
+* [Django](https://www.djangoproject.com/)
+* [Flask](http://flask.pocoo.org/)
 * [Jersey](https://jersey.github.io/)
 * [Play](https://www.playframework.com/)
 * [Vertx](http://vertx.io/)
