@@ -15,6 +15,10 @@
 * [Search Indexing](#search-indexing)
 * [Security/Malware/Hacking](#securitymalwarehacking)
 * [Serialization](#serialization)
+* [Tools](#tools)
+  * C/C++
+  * [Java](#java)
+  * [Javascript](#javascript)
 * [Version Control](#version-control)
 * [Wikipedia Portals](#wikipedia-portals)
 * [Uncategorized](#uncategorized)
@@ -107,6 +111,7 @@
 * [Elixr](https://elixir-lang.org/)
 * [Go](https://golang.org/)
 * [Haskell](https://www.haskell.org/)
+* [Java](http://www.oracle.com/technetwork/java/index.html)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Kotlin](https://kotlinlang.org/)
 * [Lua](https://www.lua.org/)
@@ -148,6 +153,22 @@
 * [CBOR](http://cbor.io/)
 
 <sup>[top](#index)</sup>
+
+# Tools
+## C/C++
+* [CMake](https://cmake.org/)
+* [Make](https://www.gnu.org/software/make/manual/make.html)
+
+## Java
+* [Ant](http://ant.apache.org/)
+* [Gradle](https://gradle.org/)
+* [Maven](http://maven.apache.org/)
+
+## Javascript
+* [Grunt](https://gruntjs.com/)
+* [Gulp](https://gulpjs.com/)
+* [npm](https://www.npmjs.com/)
+* [Webpack](https://webpack.js.org/)
 
 # Version Control
 * [Git](https://git-scm.com/)
