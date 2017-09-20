@@ -198,8 +198,9 @@
 * [ESLint](https://eslint.org/)
 * [Grunt](https://gruntjs.com/)
 * [Gulp](https://gulpjs.com/)
-* [npm](https://www.npmjs.com/)
+* [Node Package Manager](https://www.npmjs.com/)
 * [Webpack](https://webpack.js.org/)
+* [Yarn](https://yarnpkg.com/en/)
 
 <sup>[top](#index)</sup>
 
