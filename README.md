@@ -22,21 +22,31 @@
 * [Computer Security](https://en.wikipedia.org/wiki/Portal:Computer_security)
 * [Cryptography](https://en.wikipedia.org/wiki/Portal:Cryptography)
 
+<sub>[top](#index)</sub>
+
 # Operating Systems
 * [OSDev.org](http://wiki.osdev.org/Expanded_Main_Page)
 * [xv6](https://pdos.csail.mit.edu/6.828/2017/xv6.html)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 
+<sub>[top](#index)</sub>
+
 # Machine Learning
 * [Kaggle](https://www.kaggle.com/)
+
+<sub>[top](#index)</sub>
 
 # Search Indexing
 * [Lucene](https://lucene.apache.org/)
 * [Solr](http://lucene.apache.org/solr/)
 * [Changing Bits](http://blog.mikemccandless.com/)
 
+<sub>[top](#index)</sub>
+
 # Open Source
 * [Up For Grabs](http://up-for-grabs.net/)
+
+<sub>[top](#index)</sub>
 
 # Algorithms/Data Structures
 * [List of Algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
@@ -44,16 +54,22 @@
 * [SMHasher](https://github.com/aappleby/smhasher)
 * [Gnarly Trees](https://people.ksp.sk/~kuko/gnarley-trees/)
 
+<sub>[top](#index)</sub>
+
 # Serialization
 * [MessagePack](http://msgpack.org/index.html)
 * [Protobuf](https://developers.google.com/protocol-buffers/)
 * [CBOR](http://cbor.io/)
+
+<sub>[top](#index)</sub>
 
 # Design Patterns
 * [Software Design Pattern - Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 * [Microservice Architecture](http://microservices.io/)
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)
+
+<sub>[top](#index)</sub>
 
 # Security/Malware/Hacking
 * [OWASP](https://www.owasp.org/)
@@ -63,8 +79,12 @@
 * [Over the Wire](http://overthewire.org)
 * [Damn Vulnerable  Web Application](http://www.dvwa.co.uk/)
 
+<sub>[top](#index)</sub>
+
 # Version Control
 * [Git Game](https://www.git-game.com/)
+
+<sub>[top](#index)</sub>
 
 # Compilers
 * [Lex & Yacc/Flex & Bison](http://dinosaur.compilertools.net/)
@@ -72,11 +92,15 @@
 * [JavaCC](https://javacc.org/)
 * [LLVM](https://llvm.org/)
 
+<sub>[top](#index)</sub>
+
 # References
 * [Explain Shell](https://explainshell.com/)
 * [Show the Docs](http://showthedocs.com/)
 * [Linux Syscall Reference](http://syscalls.kernelgrok.com/)
 * [Linux Man Pages](https://linux.die.net/man/)
+
+<sub>[top](#index)</sub>
 
 # Programming Languages
 * [C/C++](http://www.cplusplus.com/)
@@ -91,3 +115,5 @@
 * [Python](https://www.python.org/)
 * [Rust](https://www.rust-lang.org/)
 * [Scala](https://www.scala-lang.org/)
+
+<sub>[top](#index)</sub>
