@@ -2,8 +2,11 @@
 * [Algorithms/Data Structures](#algorithmsdata-structures)
 * [Compilers](#compilers)
 * [Design Patterns](#design-patterns)
-* [Frameworks](#frameworks)
+* [Frameworks](#frameworkslibraries)
+  * [General](#general)
+  * [Reactive](#reactive)
   * [Testing](#testing)
+  * [Web](#web)
 * [Machine Learning](#machine-learning)
 * [Operating Systems](#operating-systems)
 * [Programming Languages](#programming-languages)
@@ -39,13 +42,42 @@
 
 <sup>[top](#index)</sup>
 
-# Frameworks
+# Frameworks/Libraries
+## General
+* [Apache Commons](https://commons.apache.org/)
+* [Boost](http://www.boost.org/)
+* [Guice](https://github.com/google/guice/wiki/Motivation)
+* [Spring](https://spring.io/)
+
+<sup>[top](#index)</sup>
+
+## Mobile
+* [Cordova](https://cordova.apache.org/)
+* [Ionic](https://ionicframework.com/)
+
+<sup>[top](#index)</sup>
+
+## Reactive
+* [Project Reactor](https://projectreactor.io/)
+* [Reactive Streams](http://www.reactive-streams.org/)
+* [ReactiveX](http://reactivex.io/)
+
+<sup>[top](#index)</sup>
+
 ## Testing
 * [Cucumber](https://cucumber.io/)
 * [JUnit](http://junit.org/)
 * [Robot](http://robotframework.org/)
 * [Selenium](http://www.seleniumhq.org/)
 * [TestNG](http://testng.org/doc/)
+
+<sup>[top](#index)</sup>
+
+## Web
+* [Jersey](https://jersey.github.io/)
+* [Vertx](http://vertx.io/)
+
+<sup>[top](#index)</sup>
 
 # Machine Learning
 * [Kaggle](https://www.kaggle.com/)
