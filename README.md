@@ -8,6 +8,7 @@
   * [Testing](#testing)
   * [Web](#web)
 * [Machine Learning](#machine-learning)
+* [Open Source](#open-source)
 * [Operating Systems](#operating-systems)
 * [Programming Languages](#programming-languages)
 * [References](#references)
@@ -86,6 +87,13 @@
 
 <sup>[top](#index)</sup>
 
+# Open Source
+* [Choose a License](https://choosealicense.com/)
+* [Licenses and Standards](https://opensource.org/licenses)
+* [Up For Grabs](http://up-for-grabs.net/)
+
+<sup>[top](#index)</sup>
+
 # Operating Systems
 * [OSDev.org](http://wiki.osdev.org/Expanded_Main_Page)
 * [xv6](https://pdos.csail.mit.edu/6.828/2017/xv6.html)
@@ -161,7 +169,6 @@
 <sup>[top](#index)</sup>
 
 # Uncategorized
-* [Up For Grabs](http://up-for-grabs.net/)
 * [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
 <sup>[top](#index)</sup>
