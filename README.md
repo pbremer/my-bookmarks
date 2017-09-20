@@ -12,6 +12,7 @@
 * [Compilers](#compilers)
 * [References](#references)
 * [Programming Languages](#programming-languages)
+* [Uncategorized](#uncategorized)
 
 # Wikipedia Portals
 * [Computer Science](https://en.wikipedia.org/wiki/Portal:Computer_science)
@@ -115,5 +116,10 @@
 * [Python](https://www.python.org/)
 * [Rust](https://www.rust-lang.org/)
 * [Scala](https://www.scala-lang.org/)
+
+<sup>[top](#index)</sup>
+
+# Uncategorized
+* [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
 <sup>[top](#index)</sup>
