@@ -185,6 +185,7 @@
 ## Java
 * [Ant](http://ant.apache.org/)
 * [Checkstyle](http://checkstyle.sourceforge.net/)
+* [FindBugs](http://findbugs.sourceforge.net/)
 * [Error Prone](http://errorprone.info/)
 * [Gradle](https://gradle.org/)
 * [Maven](http://maven.apache.org/)
