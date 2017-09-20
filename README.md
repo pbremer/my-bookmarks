@@ -63,7 +63,7 @@
 * [Linux Syscall Reference](http://syscalls.kernelgrok.com/)
 * [Linux Man Pages](https://linux.die.net/man/)
 
-# Programming Language
+# Programming Languages
 * [Rust](https://www.rust-lang.org/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Go](https://golang.org/)
