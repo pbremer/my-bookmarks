@@ -156,19 +156,31 @@
 
 # Tools
 ## C/C++
+* [Clang Extras](https://clang.llvm.org/extra/)
 * [CMake](https://cmake.org/)
 * [Make](https://www.gnu.org/software/make/manual/make.html)
 
+<sup>[top](#index)</sup>
+
 ## Java
 * [Ant](http://ant.apache.org/)
+* [Checkstyle](http://checkstyle.sourceforge.net/)
+* [Error Prone](http://errorprone.info/)
 * [Gradle](https://gradle.org/)
 * [Maven](http://maven.apache.org/)
+* [PMD](https://pmd.github.io/)
+
+<sup>[top](#index)</sup>
 
 ## Javascript
+* [Babel](https://babeljs.io/)
+* [ESLint](https://eslint.org/)
 * [Grunt](https://gruntjs.com/)
 * [Gulp](https://gulpjs.com/)
 * [npm](https://www.npmjs.com/)
 * [Webpack](https://webpack.js.org/)
+
+<sup>[top](#index)</sup>
 
 # Version Control
 * [Git](https://git-scm.com/)
