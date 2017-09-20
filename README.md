@@ -1,5 +1,6 @@
 # Index
 * [Algorithms/Data Structures](#algorithmsdata-structures)
+* [Benchmarks](#benchmarks)
 * [Compilers](#compilers)
 * [Design Patterns](#design-patterns)
 * [Frameworks](#frameworkslibraries)
@@ -29,6 +30,12 @@
 * [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 * [SMHasher](https://github.com/aappleby/smhasher)
+
+<sup>[top](#index)</sup>
+
+# Benchmarks
+* [Computer Language](http://benchmarksgame.alioth.debian.org/)
+* [Web Framework](https://www.techempower.com/benchmarks/)
 
 <sup>[top](#index)</sup>
 
