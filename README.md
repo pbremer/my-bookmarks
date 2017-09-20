@@ -15,10 +15,10 @@
 * [Uncategorized](#uncategorized)
 
 # Algorithms/Data Structures
+* [Gnarly Trees](https://people.ksp.sk/~kuko/gnarley-trees/)
 * [List of Algorithms - Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [List of Data Structures - Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 * [SMHasher](https://github.com/aappleby/smhasher)
-* [Gnarly Trees](https://people.ksp.sk/~kuko/gnarley-trees/)
 
 <sup>[top](#index)</sup>
 
