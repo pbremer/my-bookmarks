@@ -40,6 +40,8 @@
 
 # Machine Learning
 * [Kaggle](https://www.kaggle.com/)
+* [Scikit-Learn](http://scikit-learn.org/stable/)
+* [TensorFlow](https://www.tensorflow.org/)
 
 <sup>[top](#index)</sup>
 
