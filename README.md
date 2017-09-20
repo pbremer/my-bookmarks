@@ -191,13 +191,13 @@
 <sup>[top](#index)</sup>
 
 # Wikipedia Portals
-* [Computer Science](https://en.wikipedia.org/wiki/Portal:Computer_science)
-* [Information Technology](https://en.wikipedia.org/wiki/Portal:Information_technology)
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Portal:Artificial_intelligence)
-* [Machine Learning](https://en.wikipedia.org/wiki/Portal:Machine_learning)
 * [Computer Programming](https://en.wikipedia.org/wiki/Portal:Computer_programming)
+* [Computer Science](https://en.wikipedia.org/wiki/Portal:Computer_science)
 * [Computer Security](https://en.wikipedia.org/wiki/Portal:Computer_security)
 * [Cryptography](https://en.wikipedia.org/wiki/Portal:Cryptography)
+* [Information Technology](https://en.wikipedia.org/wiki/Portal:Information_technology)
+* [Machine Learning](https://en.wikipedia.org/wiki/Portal:Machine_learning)
 
 <sup>[top](#index)</sup>
 
