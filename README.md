@@ -1,7 +1,7 @@
 # Index
 * [Algorithms/Data Structures](#algorithmsdata-structures)
 * [Benchmarks](#benchmarks)
-* [Cload Computing Platforms](#cloud-computing-platforms)
+* [Cloud Computing Platforms](#cloud-computing-platforms)
 * [Compilers](#compilers)
 * [Design Patterns](#design-patterns)
 * [Frameworks](#frameworkslibraries)
