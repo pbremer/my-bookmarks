@@ -68,6 +68,9 @@
 <sup>[top](#index)</sup>
 
 # Frameworks/Libraries
+
+<sup>[top](#index)</sup>
+
 ## Frontend
 * [AngularJS](https://angularjs.org/)
 * [Polymer](https://www.polymer-project.org/)
@@ -186,6 +189,9 @@
 <sup>[top](#index)</sup>
 
 # Tools
+
+<sup>[top](#index)</sup>
+
 ## C/C++
 * [Clang Extras](https://clang.llvm.org/extra/)
 * [CMake](https://cmake.org/)
