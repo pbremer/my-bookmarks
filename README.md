@@ -49,7 +49,7 @@
 * [OpenShift](https://www.openshift.com/)
 * [Predix](https://www.predix.io/)
 
-<sup>[top](#index)>/sup>
+<sup>[top](#index)</sup>
 
 # Compilers
 * [Antlr](http://www.antlr.org/)
