@@ -1,6 +1,7 @@
 # Index
 * [Algorithms/Data Structures](#algorithmsdata-structures)
 * [Benchmarks](#benchmarks)
+* [Blogs](#blogs)
 * [Cloud Computing Platforms](#cloud-computing-platforms)
 * [Compilers](#compilers)
 * [Design Patterns](#design-patterns)
@@ -38,6 +39,12 @@
 # Benchmarks
 * [Computer Language](http://benchmarksgame.alioth.debian.org/)
 * [Web Framework](https://www.techempower.com/benchmarks/)
+
+<sup>[top](#index)</sup>
+
+# Blogs
+* [Hashicorp](https://www.hashicorp.com/blog/)
+* [Takipi](http://blog.takipi.com/)
 
 <sup>[top](#index)</sup>
 
@@ -260,6 +267,8 @@
 
 # Uncategorized
 * [Awesome List](https://github.com/sindresorhus/awesome)
+* [Hashicorp](https://www.hashicorp.com/)
+* [Netflix OSS](https://netflix.github.io/)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 * [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
