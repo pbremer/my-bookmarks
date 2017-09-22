@@ -166,19 +166,20 @@
 <sup>[top](#index)</sup>
 
 # Programming Languages
-* [C/C++](http://www.cplusplus.com/)
-* [Clojure](https://clojure.org/)
-* [Elixr](https://elixir-lang.org/)
-* [Go](https://golang.org/)
-* [Haskell](https://www.haskell.org/)
-* [Java](http://www.oracle.com/technetwork/java/index.html)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Kotlin](https://kotlinlang.org/)
-* [Lua](https://www.lua.org/)
-* [Perl](https://www.perl.org/)
-* [Python](https://www.python.org/)
-* [Rust](https://www.rust-lang.org/)
-* [Scala](https://www.scala-lang.org/)
+* Assembly <sub>[Awesome](https://github.com/jaspergould/awesome-asm)</sub>
+* [C/C++](http://www.cplusplus.com/) <sub>[Awesome C](https://github.com/aleksandar-todorovic/awesome-c) / [Awesome C++](https://github.com/fffaraz/awesome-cpp)</sub>
+* [Clojure](https://clojure.org/) <sub>[Awesome](https://github.com/razum2um/awesome-clojure)</sub>
+* [Elixr](https://elixir-lang.org/) <sub>[Awesome](https://github.com/h4cc/awesome-elixir)</sub>
+* [Go](https://golang.org/) <sub>[Awesome](https://github.com/avelino/awesome-go)</sub>
+* [Haskell](https://www.haskell.org/) <sub>[Awesome](https://github.com/krispo/awesome-haskell)</sub>
+* [Java](http://www.oracle.com/technetwork/java/index.html) <sub>[Awesome](https://github.com/akullpp/awesome-java)</sub>
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <sub>[Awesome](https://github.com/sorrycc/awesome-javascript)</sub>
+* [Kotlin](https://kotlinlang.org/) <sub>[Awesome](https://github.com/KotlinBy/awesome-kotlin)</sub>
+* [Lua](https://www.lua.org/) <sub>[Awesome](https://github.com/LewisJEllis/awesome-lua)</sub>
+* [Perl](https://www.perl.org/) <sub>[Awesome](https://github.com/hachiojipm/awesome-perl)</sub>
+* [Python](https://www.python.org/) <sub>[Awesome](https://github.com/vinta/awesome-python)</sub>
+* [Rust](https://www.rust-lang.org/) <sub>[Awesome](https://github.com/rust-unofficial/awesome-rust)</sub>
+* [Scala](https://www.scala-lang.org/) <sub>[Awesome](https://github.com/lauris/awesome-scala)</sub>
 
 <sup>[top](#index)</sup>
 
