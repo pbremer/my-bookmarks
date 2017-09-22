@@ -23,6 +23,7 @@
   * [Java](#java)
   * [Javascript](#javascript)
 * [Version Control](#version-control)
+* [Virtualization](#virtualization)
 * [Wikipedia Portals](#wikipedia-portals)
 * [Uncategorized](#uncategorized)
 
@@ -220,6 +221,14 @@
 * [Git Game](https://www.git-game.com/)
 * [Mercurial](https://www.mercurial-scm.org/)
 * [Subversion](https://subversion.apache.org/)
+
+<sup>[top](#index)</sup>
+
+# Virtualization
+* [Docker](https://www.docker.com/)
+* [QEMU](https://www.qemu.org/)
+* [Vagrant](https://www.vagrantup.com/)
+* [VirtualBox](https://www.virtualbox.org/)
 
 <sup>[top](#index)</sup>
 
