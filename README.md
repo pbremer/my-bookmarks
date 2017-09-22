@@ -1,6 +1,7 @@
 # Index
 * [Algorithms/Data Structures](#algorithmsdata-structures)
 * [Benchmarks](#benchmarks)
+* [Cload Computing Platforms](#cloud-computing-platforms)
 * [Compilers](#compilers)
 * [Design Patterns](#design-patterns)
 * [Frameworks](#frameworkslibraries)
@@ -38,6 +39,16 @@
 * [Web Framework](https://www.techempower.com/benchmarks/)
 
 <sup>[top](#index)</sup>
+
+# Cloud Computing Platforms
+* [Amazon Web Services](https://aws.amazon.com/)
+* [Cloud Foundry](https://www.cloudfoundry.org/)
+* [Digital Ocean](https://www.digitalocean.com/)
+* [Google Cloud Platform](https://cloud.google.com/)
+* [OpenShift](https://www.openshift.com/)
+* [Predix](https://www.predix.io/)
+
+<sup>[top](#index)>/sup>
 
 # Compilers
 * [Antlr](http://www.antlr.org/)
