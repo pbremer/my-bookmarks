@@ -43,6 +43,7 @@
 <sup>[top](#index)</sup>
 
 # Blogs
+* [Elastic](https://www.elastic.co/blog)
 * [Hashicorp](https://www.hashicorp.com/blog/)
 * [Lucidwroks0](https://lucidworks.com/blog/)
 * [Takipi](http://blog.takipi.com/)
