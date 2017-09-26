@@ -44,7 +44,9 @@
 
 # Blogs
 * [Hashicorp](https://www.hashicorp.com/blog/)
+* [Lucidwroks0](https://lucidworks.com/blog/)
 * [Takipi](http://blog.takipi.com/)
+* [Twilio](https://www.twilio.com/blog)
 
 <sup>[top](#index)</sup>
 
