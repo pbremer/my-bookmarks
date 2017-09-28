@@ -203,7 +203,7 @@
   * [Core](https://lucene.apache.org/core/)
   * [Source Code](https://github.com/apache/lucene-solr)
 * [Solr](http://lucene.apache.org/solr/)
-  * [Documentation](http://lucene.apache.org/solr/resources.html)
+  * [Documentation](http://lucene.apache.org/solr/resources.html)
   * [Source Code](https://github.com/apache/lucene-solr)
 
 <sup>[top](#index)</sup>
