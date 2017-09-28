@@ -43,6 +43,7 @@
 <sup>[top](#index)</sup>
 
 # Blogs
+* [Changing Bits](http://blog.mikemccandless.com/)
 * [Elastic](https://www.elastic.co/blog)
 * [Hashicorp](https://www.hashicorp.com/blog/)
 * [Lucidworks](https://lucidworks.com/blog/)
@@ -195,9 +196,15 @@
 <sup>[top](#index)</sup>
 
 # Search Indexing
-* [Changing Bits](http://blog.mikemccandless.com/)
+* [Elastic Search](https://www.elastic.co/products/elasticsearch)
+  * [Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+  * [Source Code](https://github.com/elastic/elasticsearch)
 * [Lucene](https://lucene.apache.org/)
+  * [Core](https://lucene.apache.org/core/)
+  * [Source Code](https://github.com/apache/lucene-solr)
 * [Solr](http://lucene.apache.org/solr/)
+  * [Documentation](http://lucene.apache.org/solr/resources.html)
+  * [Source Code](https://github.com/apache/lucene-solr)
 
 <sup>[top](#index)</sup>
 
