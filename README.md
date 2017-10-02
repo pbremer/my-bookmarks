@@ -43,10 +43,13 @@
 <sup>[top](#index)</sup>
 
 # Blogs
+* [Baeldung](http://www.baeldung.com/)
 * [Changing Bits](http://blog.mikemccandless.com/)
 * [Elastic](https://www.elastic.co/blog)
 * [Hashicorp](https://www.hashicorp.com/blog/)
+* [jOOQ](https://blog.jooq.org/)
 * [Lucidworks](https://lucidworks.com/blog/)
+* [NoBlogDefFound](http://www.nurkiewicz.com/)
 * [Takipi](http://blog.takipi.com/)
 * [Twilio](https://www.twilio.com/blog)
 
@@ -278,6 +281,7 @@
 
 # Uncategorized
 * [Awesome List](https://github.com/sindresorhus/awesome)
+* [Best Java Blogs](http://www.baeldung.com/java-blogs)
 * [Hashicorp](https://www.hashicorp.com/)
 * [Netflix OSS](https://netflix.github.io/)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
