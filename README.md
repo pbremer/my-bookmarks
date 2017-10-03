@@ -27,7 +27,7 @@
 * [Virtualization](#virtualization)
 * [Wikipedia Portals](#wikipedia-portals)
 * [Uncategorized](#uncategorized)
-  * [Stuff I Want to Work On](#stuffiwanttoworkon)
+  * [Stuff I Want to Work On](#stuff-i-want-to-work-on)
 
 # Algorithms/Data Structures
 * [Gnarly Trees](https://people.ksp.sk/~kuko/gnarley-trees/)
