@@ -27,6 +27,7 @@
 * [Virtualization](#virtualization)
 * [Wikipedia Portals](#wikipedia-portals)
 * [Uncategorized](#uncategorized)
+  * [Stuff I Want to Work On](#stuffiwanttoworkon)
 
 # Algorithms/Data Structures
 * [Gnarly Trees](https://people.ksp.sk/~kuko/gnarley-trees/)
@@ -160,9 +161,8 @@
 
 # Open Source
 * [Choose a License](https://choosealicense.com/)
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 * [Licenses and Standards](https://opensource.org/licenses)
-* [OMR](https://github.com/eclipse/omr)
-* [OpenJ9](https://github.com/eclipse/openj9)
 * [Up For Grabs](http://up-for-grabs.net/)
 
 <sup>[top](#index)</sup>
@@ -289,5 +289,11 @@
 * [Netflix OSS](https://netflix.github.io/)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 * [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
+
+<sup>[top](#index)</sup>
+
+## Stuff I Want to Work On
+* [OMR](https://github.com/eclipse/omr)
+* [OpenJ9](https://github.com/eclipse/openj9)
 
 <sup>[top](#index)</sup>
