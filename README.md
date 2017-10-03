@@ -161,6 +161,8 @@
 # Open Source
 * [Choose a License](https://choosealicense.com/)
 * [Licenses and Standards](https://opensource.org/licenses)
+* [OMR](https://github.com/eclipse/omr)
+* [OpenJ9](https://github.com/eclipse/openj9)
 * [Up For Grabs](http://up-for-grabs.net/)
 
 <sup>[top](#index)</sup>
@@ -226,6 +228,7 @@
 * [Clang Extras](https://clang.llvm.org/extra/)
 * [CMake](https://cmake.org/)
 * [Make](https://www.gnu.org/software/make/manual/make.html)
+* [Valgrind](http://valgrind.org/)
 * [What modern C++ libraries should be in my toolbox?](https://stackoverflow.com/questions/777764/what-modern-c-libraries-should-be-in-my-toolbox)
 
 <sup>[top](#index)</sup>
