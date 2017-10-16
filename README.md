@@ -46,6 +46,8 @@
 
 # Blockchain
 * [Blockchain Demo](https://anders.com/blockchain/)
+* [Ethereum](https://github.com/ethereum/wiki/wiki)
+* [Solidity](https://solidity.readthedocs.io/en/develop/)
 
 <sup>[top](#index)</sup>
 
