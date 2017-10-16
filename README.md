@@ -177,6 +177,7 @@
 
 # Operating Systems
 * [OSDev](http://wiki.osdev.org/Expanded_Main_Page)
+* [Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [xv6](https://pdos.csail.mit.edu/6.828/2017/xv6.html)
 
