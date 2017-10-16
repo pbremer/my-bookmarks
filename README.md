@@ -222,6 +222,7 @@
 <sup>[top](#index)</sup>
 
 # Serialization
+* [Avro](https://avro.apache.org/)
 * [CBOR](http://cbor.io/)
 * [MessagePack](http://msgpack.org/index.html)
 * [Protobuf](https://developers.google.com/protocol-buffers/)
