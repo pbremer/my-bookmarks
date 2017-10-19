@@ -205,7 +205,7 @@
 * [Explain Shell](https://explainshell.com/)
 * [Linux Syscall Reference](http://syscalls.kernelgrok.com/)
 * [Linux Man Pages](https://linux.die.net/man/)
-* [Pre-defined CompilerMacros](https://sourceforge.net/p/predef/wiki/Home/)
+* [Pre-defined Compiler Macros](https://sourceforge.net/p/predef/wiki/Home/)
 * [Show the Docs](http://showthedocs.com/)
 
 <sup>[top](#index)</sup>
