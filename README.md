@@ -176,6 +176,7 @@
 <sup>[top](#index)</sup>
 
 # Operating Systems
+* [Linux Kernel Newbies](https://kernelnewbies.org/)
 * [OSDev](http://wiki.osdev.org/Expanded_Main_Page)
 * [Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
