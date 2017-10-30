@@ -305,6 +305,8 @@
 <sup>[top](#index)</sup>
 
 ## Stuff I Want to Work On
+* [Coreboot](https://github.com/coreboot/coreboot)
+* [Eclipse Collections](https://github.com/eclipse/eclipse-collections)
 * [OMR](https://github.com/eclipse/omr)
 * [OpenJ9](https://github.com/eclipse/openj9)
 
