@@ -300,6 +300,7 @@
 * [Best Java Blogs](http://www.baeldung.com/java-blogs)
 * [Hashicorp](https://www.hashicorp.com/)
 * [Netflix OSS](https://netflix.github.io/)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 * [Sci-Hub](https://sci-hub.cc/)
 * [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
