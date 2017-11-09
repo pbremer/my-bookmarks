@@ -157,6 +157,7 @@
 * [Over the Wire](http://overthewire.org)
 * [OWASP](https://www.owasp.org/)
 * [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/)
+* [theZoo](https://github.com/ytisf/theZoo)
 
 <sup>[top](#index)</sup>
 
