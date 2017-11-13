@@ -152,6 +152,7 @@
 
 # Hacking/Malware/Security
 * [Damn Vulnerable  Web Application](http://www.dvwa.co.uk/)
+* [edb-debugger](https://github.com/eteran/edb-debugger)
 * [Exploit Database](https://www.exploit-db.com/)
 * [Kali Linux](https://www.kali.org/)
 * [Malware Unicorn](https://securedorg.github.io/)
