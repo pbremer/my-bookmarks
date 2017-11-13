@@ -171,6 +171,7 @@
 * [distorm](https://github.com/gdabah/distorm)
 * [edb-debugger](https://github.com/eteran/edb-debugger)
 * [Java Decompiler](http://jd.benow.ca/)
+* [radare2](https://github.com/radare/radare2)
 
 <sup>[top](#index)</sup>
 
