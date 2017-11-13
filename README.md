@@ -204,6 +204,7 @@
 <sup>[top](#index)</sup>
 
 # References
+* [c++ Links](https://github.com/MattPD/cpplinks)
 * [Explain Shell](https://explainshell.com/)
 * [Linux Syscall Reference](http://syscalls.kernelgrok.com/)
 * [Linux Man Pages](https://linux.die.net/man/)
