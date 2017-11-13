@@ -168,6 +168,7 @@
 * [dex2jar](https://github.com/pxb1988/dex2jar)
 * [distorm](https://github.com/gdabah/distorm)
 * [edb-debugger](https://github.com/eteran/edb-debugger)
+* [Java Decompiler](http://jd.benow.ca/)
 
 <sup>[top](#index)</sup>
 
