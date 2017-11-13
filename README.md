@@ -154,6 +154,7 @@
 # Hacking/Malware/Security
 * [Damn Vulnerable  Web Application](http://www.dvwa.co.uk/)
 * [Exploit Database](https://www.exploit-db.com/)
+* [InfoSec Institute](http://resources.infosecinstitute.com/)
 * [Kali Linux](https://www.kali.org/)
 * [Malware Unicorn](https://securedorg.github.io/)
 * [Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/)
