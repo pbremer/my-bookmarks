@@ -13,6 +13,7 @@
   * [Testing](#testing)
   * [Web](#web)
 * [Hacking/Malware/Security](#hackingmalwaresecurity)
+  * [Reverse Engineering Tools](#reverse-engineering-tools)
 * [Machine Learning](#machine-learning)
 * [Open Source](#open-source)
 * [Operating Systems](#operating-systems)
@@ -152,7 +153,6 @@
 
 # Hacking/Malware/Security
 * [Damn Vulnerable  Web Application](http://www.dvwa.co.uk/)
-* [edb-debugger](https://github.com/eteran/edb-debugger)
 * [Exploit Database](https://www.exploit-db.com/)
 * [Kali Linux](https://www.kali.org/)
 * [Malware Unicorn](https://securedorg.github.io/)
@@ -161,6 +161,13 @@
 * [OWASP](https://www.owasp.org/)
 * [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/)
 * [theZoo](https://github.com/ytisf/theZoo)
+
+<sup>[top](#index)</sup>
+
+## Reverse Engineering Tools
+* [dex2jar](https://github.com/pxb1988/dex2jar)
+* [distorm](https://github.com/gdabah/distorm)
+* [edb-debugger](https://github.com/eteran/edb-debugger)
 
 <sup>[top](#index)</sup>
 
