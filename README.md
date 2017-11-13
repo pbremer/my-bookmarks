@@ -253,9 +253,11 @@
 <sup>[top](#index)</sup>
 
 ## C/C++
+* [American Fuzzy Lop](http://lcamtuf.coredump.cx/afl/)
 * [Clang Extras](https://clang.llvm.org/extra/)
 * [CMake](https://cmake.org/)
 * [Make](https://www.gnu.org/software/make/manual/make.html)
+* [Unicorn](https://github.com/unicorn-engine/unicorn)
 * [Valgrind](http://valgrind.org/)
 * [What modern C++ libraries should be in my toolbox?](https://stackoverflow.com/questions/777764/what-modern-c-libraries-should-be-in-my-toolbox)
 
