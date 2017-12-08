@@ -158,6 +158,7 @@
 * [Exploit Database](https://www.exploit-db.com/)
 * [InfoSec Institute](http://resources.infosecinstitute.com/)
 * [Kali Linux](https://www.kali.org/)
+  * [Tools Listing](https://tools.kali.org/tools-listing)
 * [Malware Unicorn](https://securedorg.github.io/)
 * [Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/)
 * [Over the Wire](http://overthewire.org)
