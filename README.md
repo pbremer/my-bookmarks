@@ -317,6 +317,7 @@
 # Uncategorized
 * [Awesome List](https://github.com/sindresorhus/awesome)
 * [Best Java Blogs](http://www.baeldung.com/java-blogs)
+* [DB-Engines](https://db-engines.com)
 * [Hashicorp](https://www.hashicorp.com/)
 * [Netflix OSS](https://netflix.github.io/)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love)
