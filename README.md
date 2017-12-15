@@ -167,6 +167,7 @@
 * [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/)
 * [theZoo](https://github.com/ytisf/theZoo)
 * [VX Heaven](http://vxer.org/)
+* [Wonder How To - Null Byte](https://null-byte.wonderhowto.com/)
 
 <sup>[top](#index)</sup>
 
