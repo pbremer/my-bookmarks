@@ -161,6 +161,7 @@
 * [Kali Linux](https://www.kali.org/)
   * [Tools Listing](https://tools.kali.org/tools-listing)
 * [Malware Unicorn](https://securedorg.github.io/)
+* [Megabeets](https://www.megabeets.net/)
 * [Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/)
 * [Over the Wire](http://overthewire.org)
 * [OWASP](https://www.owasp.org/)
