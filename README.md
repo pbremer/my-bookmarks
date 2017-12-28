@@ -157,6 +157,7 @@
 * [Damn Vulnerable  Web Application](http://www.dvwa.co.uk/)
 * [/dev/ttys0](http://www.devttys0.com/)
 * [Exploit Database](https://www.exploit-db.com/)
+* [Exploit dot PH](https://exploit.ph/)
 * [InfoSec Institute](http://resources.infosecinstitute.com/)
 * [Kali Linux](https://www.kali.org/)
   * [Tools Listing](https://tools.kali.org/tools-listing)
