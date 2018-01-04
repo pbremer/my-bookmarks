@@ -177,6 +177,7 @@
 * [dex2jar](https://github.com/pxb1988/dex2jar)
 * [distorm](https://github.com/gdabah/distorm)
 * [edb-debugger](https://github.com/eteran/edb-debugger)
+* [Frida](https://www.frida.re/)
 * [Java Decompiler](http://jd.benow.ca/)
 * [radare2](https://github.com/radare/radare2)
 
