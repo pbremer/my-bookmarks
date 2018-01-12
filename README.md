@@ -326,6 +326,7 @@
 * [Best Java Blogs](http://www.baeldung.com/java-blogs)
 * [DB-Engines](https://db-engines.com)
 * [Hashicorp](https://www.hashicorp.com/)
+* [karan/Projects](https://github.com/karan/Projects)
 * [Netflix OSS](https://netflix.github.io/)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
