@@ -185,6 +185,7 @@
 <sup>[top](#index)</sup>
 
 # Machine Learning
+* [Floydhub](https://www.floydhub.com/)
 * [Kaggle](https://www.kaggle.com/)
 * [Scikit-Learn](http://scikit-learn.org/stable/)
 * [TensorFlow](https://www.tensorflow.org/)
