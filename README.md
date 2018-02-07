@@ -159,6 +159,7 @@
 * [Exploit Database](https://www.exploit-db.com/)
 * [Exploit dot PH](https://exploit.ph/)
 * [Exploit Exercises](https://exploit-exercises.com/)
+* [Hack the Box](https://www.hackthebox.eu/)
 * [InfoSec Institute](http://resources.infosecinstitute.com/)
 * [Kali Linux](https://www.kali.org/)
   * [Tools Listing](https://tools.kali.org/tools-listing)
