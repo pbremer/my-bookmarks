@@ -168,6 +168,7 @@
 * [Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/)
 * [Over the Wire](http://overthewire.org)
 * [OWASP](https://www.owasp.org/)
+* [Pentestit](https://lab.pentestit.ru/)
 * [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/)
 * [theZoo](https://github.com/ytisf/theZoo)
 * [VX Heaven](http://vxer.org/)
