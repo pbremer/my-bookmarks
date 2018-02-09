@@ -335,6 +335,7 @@
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 * [Sci-Hub](https://sci-hub.cc/)
+* [Secured.fyi](https://secured.fyi/)
 * [When main is not a function](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
 <sup>[top](#index)</sup>
