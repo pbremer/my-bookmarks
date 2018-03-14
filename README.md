@@ -330,6 +330,7 @@
 * [Best Java Blogs](http://www.baeldung.com/java-blogs)
 * [DB-Engines](https://db-engines.com)
 * [Hashicorp](https://www.hashicorp.com/)
+* [Java Bullshifter](https://takipi.github.io/java-bullshifier/)
 * [karan/Projects](https://github.com/karan/Projects)
 * [Netflix OSS](https://netflix.github.io/)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love)
